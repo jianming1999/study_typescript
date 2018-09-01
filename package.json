@@ -1,0 +1,25 @@
+{
+  "name": "study_typescript",
+  "version": "1.0.0",
+  "description": "study typescript demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianming1999/study_typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "jianming1999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianming1999/study_typescript/issues"
+  },
+  "homepage": "https://github.com/jianming1999/study_typescript#readme",
+  "dependencies": {
+    "typescript": "^3.0.3"
+  }
+}
