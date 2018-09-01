@@ -4,6 +4,7 @@
   "description": "study typescript demo",
   "main": "index.js",
   "scripts": {
+    "tsc-hello": "node_modules/typescript/bin/tsc demo/hello.ts",
     "test": "node index.js"
   },
   "repository": {
